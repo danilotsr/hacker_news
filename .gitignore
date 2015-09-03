@@ -1,0 +1,5 @@
+bin/
+lib/
+*.pyc
+include/python3.4m
+pip-selfcheck.json
